@@ -1,0 +1,14 @@
+layout_spectrum: 0.8887186672072858
+typography_spectrum: 0.7753966958262026
+color:
+  brandStrength: 0.5374670044984668
+  lightness: 0.6230180456768721
+  saturation: 0.1327904008794576
+  rhythmicContrast: 0.23054969287477434
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: COPSIS
