@@ -4,7 +4,7 @@
         <description><![CDATA[MX]]></description>
         <link>https://thegrid.ai/copsis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 16:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 16:37:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/copsis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d74cec0-ffe5-4063-97f0-ea4b15a29e20.jpg</link>
             <guid isPermaLink="false">7904b1a3-21d9-4916-9010-8581a6a6ba83</guid>
             <pubDate>Wed, 29 Jun 2016 16:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tecnología]]></title>
+            <description><![CDATA[<article><h1>Tecnología</h1><p>Nuestra plataforma de desarrollo permite integrar tecnologías de última generación, por lo que hemos logrado llevar nuestras soluciones mas allá de solo una consulta por Internet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90ffa6a2-3d40-4e74-8f66-37cc04ae2fd9.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90ffa6a2-3d40-4e74-8f66-37cc04ae2fd9.png</link>
+            <guid isPermaLink="false">daf93826-fc17-44dc-a9af-7875520f6b64</guid>
+            <pubDate>Wed, 29 Jun 2016 16:36:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Copsis MX]]></title>
@@ -26,13 +33,6 @@
             <link>http://copsis.com/web3/</link>
             <guid isPermaLink="false">2ba7043d-b2f5-49ea-ac50-a96d1ef4fb96</guid>
             <pubDate>Wed, 29 Jun 2016 15:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tecnología]]></title>
-            <description><![CDATA[<article><h1>Tecnología</h1><p>Nuestra plataforma de desarrollo permite integrar tecnologías de última generación, por lo que hemos logrado llevar nuestras soluciones mas allá de solo una consulta por Internet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90ffa6a2-3d40-4e74-8f66-37cc04ae2fd9.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90ffa6a2-3d40-4e74-8f66-37cc04ae2fd9.png</link>
-            <guid isPermaLink="false">daf93826-fc17-44dc-a9af-7875520f6b64</guid>
-            <pubDate>Wed, 29 Jun 2016 15:16:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
