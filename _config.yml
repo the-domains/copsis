@@ -1,4 +1,3 @@
-layout_spectrum: 0.8887186672072858
 typography_spectrum: 0.7753966958262026
 color:
   brandStrength: 0.5374670044984668
@@ -11,4 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: COPSIS
+layout_spectrum: 0.8887186672072858
+author:
+  name: Copsis
+  email: proyectos@copsis.com
+  url: www.copsis.com
+name: Copsis
+title: MX
