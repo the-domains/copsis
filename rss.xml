@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[MX]]></title>
         <description><![CDATA[MX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/copsis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 15:03:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 15:17:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/copsis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Copsis]]></title>
             <description><![CDATA[<article><h1>Copsis</h1><p>En Copsis estamos convencidos de que si los sistemas no replantean los paradigmas preestablecidos no están diseñados adecuadamente, la búsqueda de la mejora continua es una constante en nuestra propuesta de negocio.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56b57363ea0f5211bf01be1a885f97c0/noop.png?input=http%3A%2F%2Fcopsis.com%2Fweb3%2Fwp-content%2Fuploads%2F2014%2F02%2Fcopsis-logo2.png"></article>]]></description>
+            <link>http://copsis.com/web3/</link>
+            <guid isPermaLink="false">2ba7043d-b2f5-49ea-ac50-a96d1ef4fb96</guid>
+            <pubDate>Wed, 29 Jun 2016 15:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Copsis]]></title>
+            <description><![CDATA[<article><h1>Copsis</h1><p>En Copsis estamos convencidos de que si los sistemas no replantean los paradigmas preestablecidos no están diseñados adecuadamente, la búsqueda de la mejora continua es una constante en nuestra propuesta de negocio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0775c15a44278beb2cb4114f22cf24ad89fca48c.png"></article>]]></description>
             <link>http://copsis.com/web3/</link>
             <guid isPermaLink="false">f5367511-139b-42e6-87bf-75a60ad44bd5</guid>
             <pubDate>Wed, 29 Jun 2016 15:03:31 GMT</pubDate>
