@@ -1,16 +1,16 @@
-typography_spectrum: 0.4044729876331985
+typography_spectrum: 0.785180325852707
 color:
-  brandStrength: 0.5415522109251469
-  lightness: 0.2520582745783031
-  saturation: 0.5145344871561974
-  rhythmicContrast: 0.9797449635807425
+  brandStrength: 0.6524976526852697
+  lightness: 0.724987959722057
+  saturation: 0.48932279320433736
+  rhythmicContrast: 0.6182820566464216
   brandColors:
     - '#304269'
     - '#91BED4'
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-layout_spectrum: 0.15493358531966805
+layout_spectrum: 0.03708158899098635
 author:
   name: Copsis
   email: proyectos@copsis.com
