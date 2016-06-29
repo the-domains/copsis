@@ -4,8 +4,15 @@
         <description><![CDATA[MX]]></description>
         <link>https://thegrid.ai/copsis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 16:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 16:32:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/copsis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d74cec0-ffe5-4063-97f0-ea4b15a29e20.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d74cec0-ffe5-4063-97f0-ea4b15a29e20.jpg</link>
+            <guid isPermaLink="false">7904b1a3-21d9-4916-9010-8581a6a6ba83</guid>
+            <pubDate>Wed, 29 Jun 2016 16:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Copsis MX]]></title>
             <description><![CDATA[<article><h1>Copsis MX</h1><p>Acá va un texto</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b14786-2f79-4eae-b22c-b421cf641ad9.png"></article>]]></description>
